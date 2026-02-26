@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">812266796751</string>
+    <string name="google_api_key" translatable="false">AIzaSyDCUT5vih8JtN_mxXknf_Y1BLPK4UgAMOo</string>
+    <string name="google_app_id" translatable="false">1:812266796751:android:c24d3cafe139717960a9ba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDCUT5vih8JtN_mxXknf_Y1BLPK4UgAMOo</string>
+    <string name="google_storage_bucket" translatable="false">expensetracker-b6c81.firebasestorage.app</string>
+    <string name="project_id" translatable="false">expensetracker-b6c81</string>
+</resources>

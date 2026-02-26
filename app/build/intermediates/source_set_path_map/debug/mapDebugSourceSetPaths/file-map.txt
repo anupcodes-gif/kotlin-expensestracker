@@ -1,0 +1,67 @@
+com.example.expensetracker.app-material-1.12.0-0 C:\Users\thapa\.gradle\caches\8.9\transforms\001fe2513a01432648672ce2a294e679\transformed\material-1.12.0\res
+com.example.expensetracker.app-startup-runtime-1.1.1-1 C:\Users\thapa\.gradle\caches\8.9\transforms\0250db764534396b3db89e9c7d10006a\transformed\startup-runtime-1.1.1\res
+com.example.expensetracker.app-fragment-ktx-1.6.2-2 C:\Users\thapa\.gradle\caches\8.9\transforms\0c9d7b5b2053fef14dce8dab99a8cab5\transformed\fragment-ktx-1.6.2\res
+com.example.expensetracker.app-lifecycle-viewmodel-release-3 C:\Users\thapa\.gradle\caches\8.9\transforms\10ed35ea61fc588c59648ef936621ffe\transformed\lifecycle-viewmodel-release\res
+com.example.expensetracker.app-firebase-common-21.0.0-4 C:\Users\thapa\.gradle\caches\8.9\transforms\147fac5d0a500e32c818b5e6ed2854c5\transformed\firebase-common-21.0.0\res
+com.example.expensetracker.app-navigation-common-2.8.1-5 C:\Users\thapa\.gradle\caches\8.9\transforms\1bc1377e35efe0e09e60c3265f892875\transformed\navigation-common-2.8.1\res
+com.example.expensetracker.app-savedstate-1.2.1-6 C:\Users\thapa\.gradle\caches\8.9\transforms\20291668b3ae4a571848249f1c814250\transformed\savedstate-1.2.1\res
+com.example.expensetracker.app-fragment-1.6.2-7 C:\Users\thapa\.gradle\caches\8.9\transforms\2567d1a907c02f1075b2a44ffdf28308\transformed\fragment-1.6.2\res
+com.example.expensetracker.app-navigation-common-ktx-2.8.1-8 C:\Users\thapa\.gradle\caches\8.9\transforms\2936a381c7b9d905569a282ef85d1f15\transformed\navigation-common-ktx-2.8.1\res
+com.example.expensetracker.app-lifecycle-viewmodel-savedstate-2.8.6-9 C:\Users\thapa\.gradle\caches\8.9\transforms\2af88dd11dd236a16764f18b042f64d4\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.expensetracker.app-navigation-ui-2.8.1-10 C:\Users\thapa\.gradle\caches\8.9\transforms\2bfd2f1a2d1832239e71afb0e2153947\transformed\navigation-ui-2.8.1\res
+com.example.expensetracker.app-emoji2-1.2.0-11 C:\Users\thapa\.gradle\caches\8.9\transforms\2e978ad67dc521a694c3f2350727df90\transformed\emoji2-1.2.0\res
+com.example.expensetracker.app-lifecycle-livedata-core-ktx-2.8.6-12 C:\Users\thapa\.gradle\caches\8.9\transforms\304543705cee7cae2a00d10ab34b6c8b\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.example.expensetracker.app-browser-1.4.0-13 C:\Users\thapa\.gradle\caches\8.9\transforms\3172f4f618e9a9d54d27ac8dad3ce0c7\transformed\browser-1.4.0\res
+com.example.expensetracker.app-profileinstaller-1.3.1-14 C:\Users\thapa\.gradle\caches\8.9\transforms\3959f31c990859cc68729e88f28d9b56\transformed\profileinstaller-1.3.1\res
+com.example.expensetracker.app-coordinatorlayout-1.1.0-15 C:\Users\thapa\.gradle\caches\8.9\transforms\3bc6d8477cd49abff22d5393a49ddca5\transformed\coordinatorlayout-1.1.0\res
+com.example.expensetracker.app-window-1.0.0-16 C:\Users\thapa\.gradle\caches\8.9\transforms\3dee12fb1c267b815280d4e8b6907b29\transformed\window-1.0.0\res
+com.example.expensetracker.app-transition-1.5.0-17 C:\Users\thapa\.gradle\caches\8.9\transforms\447ea123b62d2c3963b44929078b8dd6\transformed\transition-1.5.0\res
+com.example.expensetracker.app-lifecycle-livedata-ktx-2.8.6-18 C:\Users\thapa\.gradle\caches\8.9\transforms\4d6018e3364e148261af8f7c6fe86f5d\transformed\lifecycle-livedata-ktx-2.8.6\res
+com.example.expensetracker.app-core-runtime-2.2.0-19 C:\Users\thapa\.gradle\caches\8.9\transforms\4fd1baf106c7d69097ff592bb35d2296\transformed\core-runtime-2.2.0\res
+com.example.expensetracker.app-constraintlayout-2.1.4-20 C:\Users\thapa\.gradle\caches\8.9\transforms\5c462e6c96359de40e5269c563a431f6\transformed\constraintlayout-2.1.4\res
+com.example.expensetracker.app-room-ktx-2.6.1-21 C:\Users\thapa\.gradle\caches\8.9\transforms\604e895f573f79e0c9978750ea3ea73a\transformed\room-ktx-2.6.1\res
+com.example.expensetracker.app-sqlite-2.4.0-22 C:\Users\thapa\.gradle\caches\8.9\transforms\6a897d76527e1b4d1a07bdf6d16be7d2\transformed\sqlite-2.4.0\res
+com.example.expensetracker.app-recyclerview-1.3.1-23 C:\Users\thapa\.gradle\caches\8.9\transforms\6c0ed1ab4ecb0e3dd71fcb6c1f751bbe\transformed\recyclerview-1.3.1\res
+com.example.expensetracker.app-sqlite-framework-2.4.0-24 C:\Users\thapa\.gradle\caches\8.9\transforms\7ba464411159e51243dd023c097ccf04\transformed\sqlite-framework-2.4.0\res
+com.example.expensetracker.app-play-services-basement-18.3.0-25 C:\Users\thapa\.gradle\caches\8.9\transforms\7e07006edf3d5eacb7357126c721185d\transformed\play-services-basement-18.3.0\res
+com.example.expensetracker.app-viewpager2-1.1.0-26 C:\Users\thapa\.gradle\caches\8.9\transforms\8032de15bc719f4781abc120c377338f\transformed\viewpager2-1.1.0\res
+com.example.expensetracker.app-navigation-ui-ktx-2.8.1-27 C:\Users\thapa\.gradle\caches\8.9\transforms\8393a140a2b27fedecd24df5bb1cedb0\transformed\navigation-ui-ktx-2.8.1\res
+com.example.expensetracker.app-activity-1.8.0-28 C:\Users\thapa\.gradle\caches\8.9\transforms\8ec27b7588b89ac25596218905590334\transformed\activity-1.8.0\res
+com.example.expensetracker.app-activity-ktx-1.8.0-29 C:\Users\thapa\.gradle\caches\8.9\transforms\94e520d8933b4cf312c6587516543e48\transformed\activity-ktx-1.8.0\res
+com.example.expensetracker.app-cardview-1.0.0-30 C:\Users\thapa\.gradle\caches\8.9\transforms\989fe60823b27e7ecb2e6cf64700adfd\transformed\cardview-1.0.0\res
+com.example.expensetracker.app-drawerlayout-1.1.1-31 C:\Users\thapa\.gradle\caches\8.9\transforms\9d2dc78a72c13b6a77934ffd5f36cb8a\transformed\drawerlayout-1.1.1\res
+com.example.expensetracker.app-navigation-fragment-2.8.1-32 C:\Users\thapa\.gradle\caches\8.9\transforms\a1680a1807ce0c174b81f3ca6bd9170e\transformed\navigation-fragment-2.8.1\res
+com.example.expensetracker.app-customview-poolingcontainer-1.0.0-33 C:\Users\thapa\.gradle\caches\8.9\transforms\a410815cc83d2329f04be82564c49e0c\transformed\customview-poolingcontainer-1.0.0\res
+com.example.expensetracker.app-core-ktx-1.13.1-34 C:\Users\thapa\.gradle\caches\8.9\transforms\af990c79352257ec263f46ab388aa649\transformed\core-ktx-1.13.1\res
+com.example.expensetracker.app-navigation-runtime-ktx-2.8.1-35 C:\Users\thapa\.gradle\caches\8.9\transforms\b212c48d50cf5e3d749449aedba8ac6e\transformed\navigation-runtime-ktx-2.8.1\res
+com.example.expensetracker.app-core-1.13.1-36 C:\Users\thapa\.gradle\caches\8.9\transforms\b47a0bf64c4370446fb7e4361d0d0cc6\transformed\core-1.13.1\res
+com.example.expensetracker.app-lifecycle-process-2.8.6-37 C:\Users\thapa\.gradle\caches\8.9\transforms\b6f9ef89093d986fbcef2ced939db772\transformed\lifecycle-process-2.8.6\res
+com.example.expensetracker.app-slidingpanelayout-1.2.0-38 C:\Users\thapa\.gradle\caches\8.9\transforms\ba9d001ef7be5c7a0105516581190ba2\transformed\slidingpanelayout-1.2.0\res
+com.example.expensetracker.app-lifecycle-livedata-2.8.6-39 C:\Users\thapa\.gradle\caches\8.9\transforms\bbdc105376513b93da300a469589f9ae\transformed\lifecycle-livedata-2.8.6\res
+com.example.expensetracker.app-credentials-1.2.0-rc01-40 C:\Users\thapa\.gradle\caches\8.9\transforms\be90ccbf83b6fb7572bdd74b208ac88e\transformed\credentials-1.2.0-rc01\res
+com.example.expensetracker.app-savedstate-ktx-1.2.1-41 C:\Users\thapa\.gradle\caches\8.9\transforms\bf9fa74fd422aad3cd81bd5f33f44b56\transformed\savedstate-ktx-1.2.1\res
+com.example.expensetracker.app-navigation-runtime-2.8.1-42 C:\Users\thapa\.gradle\caches\8.9\transforms\c3ee438bf6233bfdc35a9fbaae197ac3\transformed\navigation-runtime-2.8.1\res
+com.example.expensetracker.app-appcompat-resources-1.6.1-43 C:\Users\thapa\.gradle\caches\8.9\transforms\c4279b7849c64b0bd27c62c5e12de556\transformed\appcompat-resources-1.6.1\res
+com.example.expensetracker.app-annotation-experimental-1.4.1-44 C:\Users\thapa\.gradle\caches\8.9\transforms\c69dad726bc5b0ce8449d1647ec08e3c\transformed\annotation-experimental-1.4.1\res
+com.example.expensetracker.app-navigation-fragment-ktx-2.8.1-45 C:\Users\thapa\.gradle\caches\8.9\transforms\cf839a0718cb742304079b7bb4908169\transformed\navigation-fragment-ktx-2.8.1\res
+com.example.expensetracker.app-appcompat-1.6.1-46 C:\Users\thapa\.gradle\caches\8.9\transforms\d54aaf4892941216896b6ccb918c1f5c\transformed\appcompat-1.6.1\res
+com.example.expensetracker.app-credentials-play-services-auth-1.2.0-rc01-47 C:\Users\thapa\.gradle\caches\8.9\transforms\d563da4ec4f0702c851faab8a27637f7\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.expensetracker.app-lifecycle-livedata-core-2.8.6-48 C:\Users\thapa\.gradle\caches\8.9\transforms\d56ffdc34eb41357dbd5b734542d9388\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.expensetracker.app-lifecycle-runtime-ktx-release-49 C:\Users\thapa\.gradle\caches\8.9\transforms\d85231f02b09db7c808cb6b21ac4d7a4\transformed\lifecycle-runtime-ktx-release\res
+com.example.expensetracker.app-lifecycle-viewmodel-ktx-2.8.6-50 C:\Users\thapa\.gradle\caches\8.9\transforms\dba32c7d6d3fb4c74a926010c06e4705\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.example.expensetracker.app-lifecycle-runtime-release-51 C:\Users\thapa\.gradle\caches\8.9\transforms\df7448d32ece7bf61a175c3322e6564a\transformed\lifecycle-runtime-release\res
+com.example.expensetracker.app-swiperefreshlayout-1.1.0-52 C:\Users\thapa\.gradle\caches\8.9\transforms\e27421a1fe4ade809a53963f27919551\transformed\swiperefreshlayout-1.1.0\res
+com.example.expensetracker.app-room-runtime-2.6.1-53 C:\Users\thapa\.gradle\caches\8.9\transforms\ec1c78102472d60f7bd21b0445a11637\transformed\room-runtime-2.6.1\res
+com.example.expensetracker.app-glide-4.16.0-54 C:\Users\thapa\.gradle\caches\8.9\transforms\edaa9a816fb5292bd810587eb932d05a\transformed\glide-4.16.0\res
+com.example.expensetracker.app-play-services-auth-21.2.0-55 C:\Users\thapa\.gradle\caches\8.9\transforms\efacb7f85ee6562026fd5695e890a0ca\transformed\play-services-auth-21.2.0\res
+com.example.expensetracker.app-play-services-base-18.3.0-56 C:\Users\thapa\.gradle\caches\8.9\transforms\f36b424b0b14c0265752b21ff2b47c51\transformed\play-services-base-18.3.0\res
+com.example.expensetracker.app-emoji2-views-helper-1.2.0-57 C:\Users\thapa\.gradle\caches\8.9\transforms\f75bf14762fc0e42f67f8227251877bd\transformed\emoji2-views-helper-1.2.0\res
+com.example.expensetracker.app-lottie-6.5.2-58 C:\Users\thapa\.gradle\caches\8.9\transforms\ffe129735e6e99f8078d614860ad69d9\transformed\lottie-6.5.2\res
+com.example.expensetracker.app-pngs-59 C:\third sem project\expenses tracker kotlin\app\build\generated\res\pngs\debug
+com.example.expensetracker.app-res-60 C:\third sem project\expenses tracker kotlin\app\build\generated\res\processDebugGoogleServices
+com.example.expensetracker.app-resValues-61 C:\third sem project\expenses tracker kotlin\app\build\generated\res\resValues\debug
+com.example.expensetracker.app-packageDebugResources-62 C:\third sem project\expenses tracker kotlin\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.expensetracker.app-packageDebugResources-63 C:\third sem project\expenses tracker kotlin\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.expensetracker.app-debug-64 C:\third sem project\expenses tracker kotlin\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.expensetracker.app-debug-65 C:\third sem project\expenses tracker kotlin\app\src\debug\res
+com.example.expensetracker.app-main-66 C:\third sem project\expenses tracker kotlin\app\src\main\res

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ExpenseTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+
+    <!-- Card style -->
+    <style name="AppCardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="contentPadding">0dp</item>
+    </style>
+
+    <!-- Income card -->
+    <style name="IncomeCard" parent="AppCardView">
+        <item name="cardBackgroundColor">@color/card_income_bg</item>
+    </style>
+
+    <!-- Expense card -->
+    <style name="ExpenseCard" parent="AppCardView">
+        <item name="cardBackgroundColor">@color/card_expense_bg</item>
+    </style>
+
+    <!-- Balance card -->
+    <style name="BalanceCard" parent="AppCardView">
+        <item name="cardBackgroundColor">@color/card_balance_bg</item>
+    </style>
+
+    <!-- Summary label -->
+    <style name="SummaryLabel">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/on_surface_variant</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <!-- Summary value -->
+    <style name="SummaryValue">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Section header -->
+    <style name="SectionHeader">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/on_surface</item>
+    </style>
+
+    <!-- FAB style -->
+    <style name="AppFAB" parent="Widget.Material3.FloatingActionButton.Primary">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="tint">@color/white</item>
+    </style>
+
+    <!-- Input field style -->
+    <style name="AppTextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="boxStrokeColor">@color/primary</item>
+    </style>
+
+    <!-- Button style -->
+    <style name="AppButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+</resources>

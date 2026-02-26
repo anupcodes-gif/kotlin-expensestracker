@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_security.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_fragment_add_expense.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_other.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_bg_circle_surface_variant.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\bg_circle_surface_variant.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_investment.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_investment.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\anim_waving_hand.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\anim\\waving_hand.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_note.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_chart.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_edit_profile.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_entertainment.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_entertainment.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_utilities.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_utilities.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_food.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_freelance.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_freelance.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_rent.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_rent.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_fragment_statistics.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_income.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_money.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_transport.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_transport.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_label.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_bg_circle_primary.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\bg_circle_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_shopping.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_education.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_education.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_item_dropdown.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\item_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_calendar_svg.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_calendar_svg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_rs.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_rs.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\layout_fragment_transactions.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_transactions.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-64:/layout_fragment_profile.xml.flat",
+        "source": "com.example.expensetracker.app-main-66:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_bg_profile_header.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\bg_profile_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_salary.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_salary.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_wallet.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_cat_health.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_cat_health.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_bg_circle_surface.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\bg_circle_surface.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-debug-64:\\drawable_ic_expense.xml.flat",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\drawable\\ic_expense.xml"
+    }
+]
