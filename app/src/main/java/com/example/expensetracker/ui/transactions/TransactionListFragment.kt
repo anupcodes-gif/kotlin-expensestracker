@@ -70,7 +70,6 @@ class TransactionListFragment : Fragment() {
     private fun setupSortChips() {
         binding.chipSortNewest.setOnClickListener { viewModel.setSortOrder(SortOrder.DATE_NEWEST) }
         binding.chipSortOldest.setOnClickListener { viewModel.setSortOrder(SortOrder.DATE_OLDEST) }
-        binding.chipSortCategory.setOnClickListener { viewModel.setSortOrder(SortOrder.CATEGORY) }
     }
 
     private fun observeViewModel() {

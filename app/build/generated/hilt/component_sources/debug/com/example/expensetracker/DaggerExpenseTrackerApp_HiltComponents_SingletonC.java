@@ -460,28 +460,28 @@ public final class DaggerExpenseTrackerApp_HiltComponents_SingletonC {
     private static final class LazyClassKeyProvider {
       static String com_example_expensetracker_ui_dashboard_DashboardViewModel = "com.example.expensetracker.ui.dashboard.DashboardViewModel";
 
-      static String com_example_expensetracker_ui_transactions_TransactionViewModel = "com.example.expensetracker.ui.transactions.TransactionViewModel";
-
       static String com_example_expensetracker_ui_auth_AuthViewModel = "com.example.expensetracker.ui.auth.AuthViewModel";
 
-      static String com_example_expensetracker_ui_addexpense_AddExpenseViewModel = "com.example.expensetracker.ui.addexpense.AddExpenseViewModel";
-
       static String com_example_expensetracker_ui_statistics_StatisticsViewModel = "com.example.expensetracker.ui.statistics.StatisticsViewModel";
+
+      static String com_example_expensetracker_ui_transactions_TransactionViewModel = "com.example.expensetracker.ui.transactions.TransactionViewModel";
+
+      static String com_example_expensetracker_ui_addexpense_AddExpenseViewModel = "com.example.expensetracker.ui.addexpense.AddExpenseViewModel";
 
       @KeepFieldType
       DashboardViewModel com_example_expensetracker_ui_dashboard_DashboardViewModel2;
 
       @KeepFieldType
-      TransactionViewModel com_example_expensetracker_ui_transactions_TransactionViewModel2;
-
-      @KeepFieldType
       AuthViewModel com_example_expensetracker_ui_auth_AuthViewModel2;
 
       @KeepFieldType
-      AddExpenseViewModel com_example_expensetracker_ui_addexpense_AddExpenseViewModel2;
+      StatisticsViewModel com_example_expensetracker_ui_statistics_StatisticsViewModel2;
 
       @KeepFieldType
-      StatisticsViewModel com_example_expensetracker_ui_statistics_StatisticsViewModel2;
+      TransactionViewModel com_example_expensetracker_ui_transactions_TransactionViewModel2;
+
+      @KeepFieldType
+      AddExpenseViewModel com_example_expensetracker_ui_addexpense_AddExpenseViewModel2;
     }
   }
 
@@ -556,11 +556,11 @@ public final class DaggerExpenseTrackerApp_HiltComponents_SingletonC {
     private static final class LazyClassKeyProvider {
       static String com_example_expensetracker_ui_addexpense_AddExpenseViewModel = "com.example.expensetracker.ui.addexpense.AddExpenseViewModel";
 
-      static String com_example_expensetracker_ui_dashboard_DashboardViewModel = "com.example.expensetracker.ui.dashboard.DashboardViewModel";
-
       static String com_example_expensetracker_ui_auth_AuthViewModel = "com.example.expensetracker.ui.auth.AuthViewModel";
 
       static String com_example_expensetracker_ui_statistics_StatisticsViewModel = "com.example.expensetracker.ui.statistics.StatisticsViewModel";
+
+      static String com_example_expensetracker_ui_dashboard_DashboardViewModel = "com.example.expensetracker.ui.dashboard.DashboardViewModel";
 
       static String com_example_expensetracker_ui_transactions_TransactionViewModel = "com.example.expensetracker.ui.transactions.TransactionViewModel";
 
@@ -568,13 +568,13 @@ public final class DaggerExpenseTrackerApp_HiltComponents_SingletonC {
       AddExpenseViewModel com_example_expensetracker_ui_addexpense_AddExpenseViewModel2;
 
       @KeepFieldType
-      DashboardViewModel com_example_expensetracker_ui_dashboard_DashboardViewModel2;
-
-      @KeepFieldType
       AuthViewModel com_example_expensetracker_ui_auth_AuthViewModel2;
 
       @KeepFieldType
       StatisticsViewModel com_example_expensetracker_ui_statistics_StatisticsViewModel2;
+
+      @KeepFieldType
+      DashboardViewModel com_example_expensetracker_ui_dashboard_DashboardViewModel2;
 
       @KeepFieldType
       TransactionViewModel com_example_expensetracker_ui_transactions_TransactionViewModel2;

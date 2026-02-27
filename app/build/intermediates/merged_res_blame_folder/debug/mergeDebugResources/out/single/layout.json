@@ -8,6 +8,14 @@
         "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\item_transaction.xml"
     },
     {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-mergeDebugResources-63:\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-mergeDebugResources-63:\\layout\\item_dropdown.xml",
+        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\item_dropdown.xml"
+    },
+    {
         "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-mergeDebugResources-63:\\layout\\fragment_transactions.xml",
         "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_transactions.xml"
     },
@@ -16,8 +24,8 @@
         "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-mergeDebugResources-63:\\layout\\fragment_register.xml",
-        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_register.xml"
+        "merged": "com.example.expensetracker.app-mergeDebugResources-63:/layout/fragment_register.xml",
+        "source": "com.example.expensetracker.app-main-66:/layout/fragment_register.xml"
     },
     {
         "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-mergeDebugResources-63:\\layout\\fragment_statistics.xml",
@@ -28,8 +36,8 @@
         "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\fragment_add_expense.xml"
     },
     {
-        "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-mergeDebugResources-63:\\layout\\item_dropdown.xml",
-        "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\item_dropdown.xml"
+        "merged": "com.example.expensetracker.app-mergeDebugResources-63:/layout/fragment_login.xml",
+        "source": "com.example.expensetracker.app-main-66:/layout/fragment_login.xml"
     },
     {
         "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-mergeDebugResources-63:\\layout\\fragment_login.xml",
@@ -38,9 +46,5 @@
     {
         "merged": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-mergeDebugResources-63:\\layout\\activity_main.xml",
         "source": "C:\\Users\\thapa\\.gradle\\daemon\\8.9\\com.example.expensetracker.app-main-66:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "com.example.expensetracker.app-mergeDebugResources-63:/layout/fragment_profile.xml",
-        "source": "com.example.expensetracker.app-main-66:/layout/fragment_profile.xml"
     }
 ]

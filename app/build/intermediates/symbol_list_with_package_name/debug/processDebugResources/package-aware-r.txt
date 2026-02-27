@@ -3429,7 +3429,6 @@ id chipOther
 id chipRent
 id chipSalary
 id chipShopping
-id chipSortCategory
 id chipSortNewest
 id chipSortOldest
 id chipTransport

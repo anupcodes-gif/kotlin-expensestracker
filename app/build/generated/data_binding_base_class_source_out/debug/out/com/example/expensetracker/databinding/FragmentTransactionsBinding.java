@@ -33,9 +33,6 @@ public final class FragmentTransactionsBinding implements ViewBinding {
   public final Chip chipIncome;
 
   @NonNull
-  public final Chip chipSortCategory;
-
-  @NonNull
   public final Chip chipSortNewest;
 
   @NonNull
@@ -54,15 +51,14 @@ public final class FragmentTransactionsBinding implements ViewBinding {
   public final TextView tvEmpty;
 
   private FragmentTransactionsBinding(@NonNull LinearLayout rootView, @NonNull Chip chipAll,
-      @NonNull Chip chipExpense, @NonNull Chip chipIncome, @NonNull Chip chipSortCategory,
-      @NonNull Chip chipSortNewest, @NonNull Chip chipSortOldest, @NonNull ProgressBar progressBar,
+      @NonNull Chip chipExpense, @NonNull Chip chipIncome, @NonNull Chip chipSortNewest,
+      @NonNull Chip chipSortOldest, @NonNull ProgressBar progressBar,
       @NonNull RecyclerView rvTransactions, @NonNull SearchView searchView,
       @NonNull TextView tvEmpty) {
     this.rootView = rootView;
     this.chipAll = chipAll;
     this.chipExpense = chipExpense;
     this.chipIncome = chipIncome;
-    this.chipSortCategory = chipSortCategory;
     this.chipSortNewest = chipSortNewest;
     this.chipSortOldest = chipSortOldest;
     this.progressBar = progressBar;
@@ -116,12 +112,6 @@ public final class FragmentTransactionsBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.chipSortCategory;
-      Chip chipSortCategory = ViewBindings.findChildViewById(rootView, id);
-      if (chipSortCategory == null) {
-        break missingId;
-      }
-
       id = R.id.chipSortNewest;
       Chip chipSortNewest = ViewBindings.findChildViewById(rootView, id);
       if (chipSortNewest == null) {
@@ -159,8 +149,8 @@ public final class FragmentTransactionsBinding implements ViewBinding {
       }
 
       return new FragmentTransactionsBinding((LinearLayout) rootView, chipAll, chipExpense,
-          chipIncome, chipSortCategory, chipSortNewest, chipSortOldest, progressBar, rvTransactions,
-          searchView, tvEmpty);
+          chipIncome, chipSortNewest, chipSortOldest, progressBar, rvTransactions, searchView,
+          tvEmpty);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

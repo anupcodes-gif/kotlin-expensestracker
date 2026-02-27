@@ -458,30 +458,30 @@ public final class DaggerExpenseTrackerApp_HiltComponents_SingletonC {
 
     @IdentifierNameString
     private static final class LazyClassKeyProvider {
-      static String com_example_expensetracker_ui_transactions_TransactionViewModel = "com.example.expensetracker.ui.transactions.TransactionViewModel";
-
-      static String com_example_expensetracker_ui_statistics_StatisticsViewModel = "com.example.expensetracker.ui.statistics.StatisticsViewModel";
-
       static String com_example_expensetracker_ui_addexpense_AddExpenseViewModel = "com.example.expensetracker.ui.addexpense.AddExpenseViewModel";
-
-      static String com_example_expensetracker_ui_auth_AuthViewModel = "com.example.expensetracker.ui.auth.AuthViewModel";
 
       static String com_example_expensetracker_ui_dashboard_DashboardViewModel = "com.example.expensetracker.ui.dashboard.DashboardViewModel";
 
-      @KeepFieldType
-      TransactionViewModel com_example_expensetracker_ui_transactions_TransactionViewModel2;
+      static String com_example_expensetracker_ui_auth_AuthViewModel = "com.example.expensetracker.ui.auth.AuthViewModel";
 
-      @KeepFieldType
-      StatisticsViewModel com_example_expensetracker_ui_statistics_StatisticsViewModel2;
+      static String com_example_expensetracker_ui_statistics_StatisticsViewModel = "com.example.expensetracker.ui.statistics.StatisticsViewModel";
+
+      static String com_example_expensetracker_ui_transactions_TransactionViewModel = "com.example.expensetracker.ui.transactions.TransactionViewModel";
 
       @KeepFieldType
       AddExpenseViewModel com_example_expensetracker_ui_addexpense_AddExpenseViewModel2;
 
       @KeepFieldType
+      DashboardViewModel com_example_expensetracker_ui_dashboard_DashboardViewModel2;
+
+      @KeepFieldType
       AuthViewModel com_example_expensetracker_ui_auth_AuthViewModel2;
 
       @KeepFieldType
-      DashboardViewModel com_example_expensetracker_ui_dashboard_DashboardViewModel2;
+      StatisticsViewModel com_example_expensetracker_ui_statistics_StatisticsViewModel2;
+
+      @KeepFieldType
+      TransactionViewModel com_example_expensetracker_ui_transactions_TransactionViewModel2;
     }
   }
 
@@ -554,30 +554,30 @@ public final class DaggerExpenseTrackerApp_HiltComponents_SingletonC {
 
     @IdentifierNameString
     private static final class LazyClassKeyProvider {
+      static String com_example_expensetracker_ui_transactions_TransactionViewModel = "com.example.expensetracker.ui.transactions.TransactionViewModel";
+
       static String com_example_expensetracker_ui_dashboard_DashboardViewModel = "com.example.expensetracker.ui.dashboard.DashboardViewModel";
-
-      static String com_example_expensetracker_ui_statistics_StatisticsViewModel = "com.example.expensetracker.ui.statistics.StatisticsViewModel";
-
-      static String com_example_expensetracker_ui_addexpense_AddExpenseViewModel = "com.example.expensetracker.ui.addexpense.AddExpenseViewModel";
 
       static String com_example_expensetracker_ui_auth_AuthViewModel = "com.example.expensetracker.ui.auth.AuthViewModel";
 
-      static String com_example_expensetracker_ui_transactions_TransactionViewModel = "com.example.expensetracker.ui.transactions.TransactionViewModel";
+      static String com_example_expensetracker_ui_addexpense_AddExpenseViewModel = "com.example.expensetracker.ui.addexpense.AddExpenseViewModel";
+
+      static String com_example_expensetracker_ui_statistics_StatisticsViewModel = "com.example.expensetracker.ui.statistics.StatisticsViewModel";
+
+      @KeepFieldType
+      TransactionViewModel com_example_expensetracker_ui_transactions_TransactionViewModel2;
 
       @KeepFieldType
       DashboardViewModel com_example_expensetracker_ui_dashboard_DashboardViewModel2;
 
       @KeepFieldType
-      StatisticsViewModel com_example_expensetracker_ui_statistics_StatisticsViewModel2;
+      AuthViewModel com_example_expensetracker_ui_auth_AuthViewModel2;
 
       @KeepFieldType
       AddExpenseViewModel com_example_expensetracker_ui_addexpense_AddExpenseViewModel2;
 
       @KeepFieldType
-      AuthViewModel com_example_expensetracker_ui_auth_AuthViewModel2;
-
-      @KeepFieldType
-      TransactionViewModel com_example_expensetracker_ui_transactions_TransactionViewModel2;
+      StatisticsViewModel com_example_expensetracker_ui_statistics_StatisticsViewModel2;
     }
 
     private static final class SwitchingProvider<T> implements Provider<T> {
