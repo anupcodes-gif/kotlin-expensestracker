@@ -36,11 +36,18 @@ class TransactionAdapter(
 
         fun bind(expense: Expense) {
             binding.tvTitle.text = expense.title
-            binding.tvCategory.text = expense.category.displayName
-            binding.tvDate.text = expense.date.toDisplayString()
-            binding.ivCategoryIcon.setImageResource(expense.category.iconResId)
-
             val isIncome = expense.type == TransactionType.INCOME
+
+            if (isIncome) {
+                binding.tvCategory.visibility = android.view.View.GONE
+                binding.ivCategoryIcon.setImageResource(R.drawable.ic_income)
+            } else {
+                binding.tvCategory.visibility = android.view.View.VISIBLE
+                binding.tvCategory.text = expense.category.displayName
+                binding.ivCategoryIcon.setImageResource(expense.category.iconResId)
+            }
+
+            binding.tvDate.text = expense.date.toDisplayString()
             val prefix = if (isIncome) "+" else "-"
             binding.tvAmount.text = "$prefix${expense.amount.toCurrency()}"
             binding.tvAmount.setTextColor(

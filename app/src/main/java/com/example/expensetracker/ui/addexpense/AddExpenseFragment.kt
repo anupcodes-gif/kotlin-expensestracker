@@ -99,16 +99,27 @@ class AddExpenseFragment : Fragment() {
                     R.id.btnIncome -> TransactionType.INCOME
                     else -> TransactionType.EXPENSE
                 }
-                updateTypeColors()
+                updateTypeUI()
             }
         }
         binding.toggleType.check(R.id.btnExpense)
     }
 
-    private fun updateTypeColors() {
+    private fun updateTypeUI() {
         val isExpense = selectedType == TransactionType.EXPENSE
-        val color = if (isExpense) R.color.expense_red else R.color.income_green
-        // update UI tint if desired
+        // Show/hide category section — categories apply to expenses only
+        binding.tvCategoryLabel.isVisible = isExpense
+        binding.categoryScrollView.isVisible = isExpense
+        // Update the header title based on mode
+        if (args.expenseId.isNotBlank()) {
+            binding.tvTitle.text = if (isExpense) "Edit Expense" else "Edit Income"
+        } else {
+            binding.tvTitle.text = if (isExpense) "Add Expense" else "Add Income"
+        }
+        // Default category for income
+        if (!isExpense) {
+            selectedCategory = Category.SALARY
+        }
     }
 
     private fun setupButtons() {
@@ -177,6 +188,7 @@ class AddExpenseFragment : Fragment() {
                         }
                         if (expense.type == TransactionType.INCOME) binding.toggleType.check(R.id.btnIncome)
                         else binding.toggleType.check(R.id.btnExpense)
+                        updateTypeUI()
                     }
 
                     state.error?.let { error ->
